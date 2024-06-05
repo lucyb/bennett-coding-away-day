@@ -1,0 +1,619 @@
+code,term
+10461000,Nonvenomous insect bite with infection
+10662001,Nonvenomous insect bite of face with infection
+10847261000119103,Open wound of left foot due to dog bite
+10847341000119108,Open wound of left foot due to animal bite
+10858921000119103,Open wound of right chest wall due to human bite
+10858961000119108,Open wound of right chest wall due to dog bite
+10859121000119106,Open wound of left chest wall due to human bite
+10859161000119101,Open wound of left chest wall due to dog bite
+10861771000119101,Open wound of scalp due to dog bite
+10867471000119104,Open wound of lower back due to dog bite
+10877511000119100,Open wound of right lower leg due to bite
+10877551000119104,Open wound of left lower leg due to bite
+10898251000119106,Open wound of right cheek due to dog bite
+10898291000119101,Open wound of left cheek due to dog bite
+10898811000119109,Open wound of lip due to human bite
+10899131000119104,Open wound of mouth due to bite
+10905711000119100,Open wound of face due to dog bite
+10947291000119103,Open wound of finger of left hand due to dog bite
+10947331000119109,Open wound of left index finger due to dog bite
+10947411000119108,Open wound of left middle finger due to dog bite
+10947451000119109,Open wound of left ring finger due to dog bite
+10947491000119104,Open wound of finger of right hand due to dog bite
+10947531000119104,Open wound of right index finger due to dog bite
+10947611000119105,Open wound of right middle finger due to dog bite
+10947651000119106,Open wound of right ring finger due to dog bite
+10947771000119106,Open wound of left index finger due to animal bite
+10947851000119107,Open wound of left middle finger due to animal bite
+10947891000119102,Open wound of left ring finger due to animal bite
+10947971000119108,Open wound of right index finger due to animal bite
+10948051000119101,Open wound of right middle finger due to animal bite
+10948091000119106,Open wound of right ring finger due to animal bite
+10948191000119107,Open wound of right thumb due to dog bite
+10948231000119103,Open wound of left thumb due to dog bite
+10948471000119101,Open wound of left hand due to dog bite
+10948511000119105,Open wound of right hand due to dog bite
+10948671000119103,Open wound of left hand due to animal bite
+10948711000119104,Open wound of right hand due to animal bite
+10948851000119108,Open wound of right upper arm due to dog bite
+10948891000119103,Open wound of left upper arm due to dog bite
+10949171000119104,Open wound of right wrist due to dog bite
+10949211000119102,Open wound of left wrist due to dog bite
+10949671000119107,Open wound of right forearm due to dog bite
+10949711000119106,Open wound of left forearm due to dog bite
+10949871000119106,Open wound of left forearm due to animal bite
+10949911000119109,Open wound of right forearm due to animal bite
+10953201000119100,Open wound of finger of left hand due to cat bite
+10953241000119103,Open wound of left index finger due to cat bite
+10953281000119108,Open wound of left little finger due to cat bite
+10953321000119103,Open wound of left middle finger due to cat bite
+10953361000119108,Open wound of left ring finger due to cat bite
+10953401000119104,Open wound of finger of right hand due to cat bite
+10953441000119102,Open wound of right index finger due to cat bite
+10953481000119107,Open wound of right little finger due to cat bite
+10953521000119107,Open wound of right middle finger due to cat bite
+10953561000119102,Open wound of right ring finger due to cat bite
+10953641000119100,Open wound of right thumb due to cat bite
+10953681000119105,Open wound of left thumb due to cat bite
+10953761000119109,Open wound of right forearm due to cat bite
+10953801000119101,Open wound of left forearm due to cat bite
+10953881000119109,Open wound of left hand due to cat bite
+10953921000119102,Open wound of right hand due to cat bite
+10954001000119108,Open wound of left wrist due to cat bite
+10954041000119105,Open wound of right wrist due to cat bite
+10956121000119108,Open wound of right index finger due to bite
+10956201000119108,Open wound of right middle finger due to bite
+10956321000119105,Open wound of left index finger due to bite
+10956401000119109,Open wound of left middle finger due to bite
+10956921000119106,Open wound of finger of left hand due to human bite
+10956961000119101,Open wound of left index finger due to human bite
+10957041000119104,Open wound of left middle finger due to human bite
+10957081000119109,Open wound of left ring finger due to human bite
+10957121000119106,Open wound of finger of right hand due to human bite
+10957161000119101,Open wound of right index finger due to human bite
+10957241000119108,Open wound of right middle finger due to human bite
+10957281000119103,Open wound of right ring finger due to human bite
+10957641000119106,Open wound of right thumb due to bite
+10957681000119101,Open wound of left thumb due to bite
+10958841000119108,Open wound of left hand due to bite
+10958881000119103,Open wound of right hand due to bite
+10958961000119100,Open wound of left hand due to human bite
+10959001000119107,Open wound of right hand due to human bite
+10959121000119102,Open wound of right upper arm due to human bite
+10959521000119109,Open wound of left wrist due to human bite
+10959561000119104,Open wound of right wrist due to human bite
+10960401000119100,Open wound of left forearm due to human bite
+10960441000119103,Open wound of right forearm due to human bite
+10965401000119108,Open wound of right hip due to human bite
+10965441000119105,Open wound of left hip due to human bite
+10966361000119106,Open wound of right thigh due to human bite
+10966401000119102,Open wound of left thigh due to human bite
+10966721000119102,Open wound of right lower leg due to human bite
+10966761000119107,Open wound of left lower leg due to human bite
+10969771000119106,Open wound of right thigh due to dog bite
+10969811000119106,Open wound of left thigh due to dog bite
+10970131000119105,Open wound of right foot due to dog bite
+10970171000119108,Open wound of right foot due to animal bite
+10970371000119105,Open wound of right lower leg due to dog bite
+10970411000119106,Open wound of left lower leg due to dog bite
+10970491000119102,Open wound of right lower leg due to animal bite
+10970531000119102,Open wound of left lower leg due to animal bite
+10970611000119108,Open wound of right lower leg due to cat bite
+10970651000119109,Open wound of left lower leg due to cat bite
+10971091000119102,Open wound of left upper arm due to human bite
+10971491000119108,Open wound of left elbow region due to animal bite
+10971531000119108,Open wound of right elbow region due to animal bite
+11773571000119109,Infected wound of right elbow due to non venomous insect bite
+11773611000119100,Wound of right elbow region due to nonvenomous insect bite
+11773651000119104,Infected wound of left elbow due to non venomous insect bite
+11773691000119109,Wound of left elbow region due to nonvenomous insect bite
+11779561000119100,Infected wound of right forearm due to non venomous insect bite
+11779601000119100,Infected wound of left forearm due to non venomous insect bite
+11779841000119102,Wound of right forearm due to nonvenomous insect bite
+11779881000119107,Wound of left forearm due to nonvenomous insect bite
+11783401000119109,Infected wound of right hip due to nonvenomous insect bite
+11783441000119106,Infected wound of left hip due to nonvenomous insect bite
+11783961000119101,Infected wound of right thigh due to nonvenomous insect bite
+11784001000119100,Infected wound of left thigh due to nonvenomous insect bite
+11784041000119103,Infected wound of right wrist due to non venomous insect bite
+11784081000119108,Infected wound of left wrist due to non venomous insect bite
+11785921000119107,Wound of right wrist due to nonvenomous insect bite
+11785961000119102,Wound of left wrist due to nonvenomous insect bite
+11786001000119105,Nonvenomous insect bite of right hand
+11786041000119107,Nonvenomous insect bite of left hand
+11789161000119101,Nonvenomous insect bite of finger of left hand
+11789201000119106,Nonvenomous insect bite of left index finger
+11789321000119108,Nonvenomous insect bite of middle finger of left hand
+11789561000119109,Nonvenomous insect bite of finger of right hand
+11789601000119109,Nonvenomous insect bite of right index finger
+11789681000119101,Nonvenomous insect bite of middle finger of right hand
+11793621000119101,Nonvenomous insect bite of lesser toe of right foot
+11793661000119106,Nonvenomous insect bite of lesser toe of left foot
+11793701000119104,Wound of right foot due to nonvenomous insect bite
+11793741000119102,Wound of left foot due to nonvenomous insect bite
+11808981000119103,Wound of right hip region due to nonvenomous insect bite
+11809021000119109,Wound of left hip region due to nonvenomous insect bite
+11809061000119104,Wound of right thigh due to nonvenomous insect bite
+11809101000119101,Wound of left thigh due to nonvenomous insect bite
+11809221000119101,Infected wound of low back due to nonvenomous insect bite
+11809341000119101,Wound of lower back due to nonvenomous insect bite
+11809661000119109,Infected wound of right knee due to nonvenomous insect bite
+11809701000119102,Infected wound of left knee due to nonvenomous insect bite
+11809741000119100,Wound of right lower leg due to nonvenomous insect bite
+11809781000119105,Wound of left lower leg due to nonvenomous insect bite
+11809821000119100,Wound of right knee region due to nonvenomous insect bite
+11809861000119105,Wound of left knee region due to nonvenomous insect bite
+11822681000119102,Wound of right axilla due to nonvenomous insect bite
+11822721000119108,Wound of left axilla due to nonvenomous insect bite
+11823321000119101,Infected wound of right upper arm due to non venomous insect bite
+11823361000119106,Infected wound of left upper arm due to non venomous insect bite
+11823721000119102,Wound of right upper arm due to nonvenomous insect bite
+11823761000119107,Wound of left upper arm due to nonvenomous insect bite
+11823801000119104,Wound of right shoulder due to nonvenomous insect bite
+11823841000119102,Wound of left shoulder due to nonvenomous insect bite
+11837001000119102,Infected wound of right lower leg due to nonvenomous insect bite
+11837041000119100,Infected wound of left lower leg due to nonvenomous insect bite
+11843551000119104,Wound of right ear due to nonvenomous insect bite
+11843591000119109,Wound of left ear due to nonvenomous insect bite
+11847821000119101,Nonvenomous insect bite of cheek
+11848301000119100,Infected wound of right eyelid due to nonvenomous insect bite
+11848341000119103,Wound of right eyelid due to nonvenomous insect bite
+11848381000119108,Infected wound of left eyelid due to nonvenomous insect bite
+11848421000119104,Wound of left eyelid due to nonvenomous insect bite
+11849221000119106,Wound of right breast due to nonvenomous insect bite
+11849261000119101,Wound of left breast due to nonvenomous insect bite
+11849381000119101,Wound of right half of chest wall due to nonvenomous insect bite
+11849421000119105,Wound of left half of chest wall due to nonvenomous insect bite
+11849861000119102,Wound of head due to nonvenomous insect bite
+11862521000119106,Infected wound of right foot due to nonvenomous insect bite
+11862561000119101,Infected wound of left foot due to nonvenomous insect bite
+11862601000119101,Wound of right ankle due to nonvenomous insect bite
+11862641000119104,Wound of left ankle due to nonvenomous insect bite
+1251602002,Bite of order Scorpiones
+1251607008,Bite of Centruroides exilicauda
+1251614005,Lizard bite
+1251615006,Heloderma suspectum bite
+1251616007,Heloderma horridum bite
+1254678001,Bite by Solenopsis
+1255439001,Open wound of elbow region due to animal bite
+1255440004,Nonvenomous insect bite of index finger
+1255441000,Nonvenomous insect bite of lesser toe
+1255492008,Nonvenomous insect bite of great toe
+1255493003,Nonvenomous insect bite of right great toe
+1255494009,Nonvenomous insect bite of left great toe
+1255495005,Nonvenomous insect bite of middle finger
+1255496006,Nonvenomous insect bite of ring finger
+1255497002,Nonvenomous insect bite of left ring finger
+1255498007,Nonvenomous insect bite of right ring finger
+1255499004,Nonvenomous insect bite of little finger
+1255500008,Nonvenomous insect bite of left little finger
+1255501007,Nonvenomous insect bite of right little finger
+1255502000,Nonvenomous insect bite of thumb
+1255503005,Nonvenomous insect bite of left thumb
+1255504004,Nonvenomous insect bite of right thumb
+1268599000,Infection of wound due to dog bite
+135874008,Bite to own tongue
+13915009,Nonvenomous insect bite of buttock without infection
+14096004,Nonvenomous insect bite of scapular region with infection
+14220008,Nonvenomous insect bite of lip without infection
+15034009,Nonvenomous insect bite of breast with infection
+15056007,Poisoning due to bite of venomous arthropod
+17198008,Nonvenomous insect bite of ear with infection
+17384006,Nonvenomous insect bite of toe with infection
+19108007,Nonvenomous insect bite of trunk with infection
+211008009,"Insect bite, nonvenomous, of face"
+211009001,"Insect bite, nonvenomous, of neck"
+211010006,"Insect bite, nonvenomous, of scalp"
+211012003,"Insect bite, nonvenomous, of head, infected"
+211103003,"Insect bite, nonvenomous, of interscapular region"
+211104009,"Insect bite, nonvenomous, of chest wall"
+211105005,"Insect bite, nonvenomous, of breast"
+211106006,"Insect bite, nonvenomous, of abdominal wall"
+211107002,"Insect bite, nonvenomous, of back"
+211108007,"Insect bite, nonvenomous, of buttock"
+211109004,"Insect bite, nonvenomous, of anus"
+211110009,"Insect bite, nonvenomous, of flank"
+211111008,"Insect bite, nonvenomous, of groin"
+211112001,"Insect bite, nonvenomous, of perineum"
+211113006,"Insect bite, nonvenomous, of penis"
+211115004,"Insect bite, nonvenomous, of vulva"
+211116003,"Insect bite, nonvenomous, of vagina"
+211215005,"Insect bite, nonvenomous, of shoulder"
+211217002,"Insect bite, nonvenomous, of axilla"
+211218007,"Insect bite, nonvenomous, of upper arm"
+211220005,"Insect bite, nonvenomous, of shoulder and upper arm, infected"
+211272000,"Insect bite, nonvenomous, of elbow"
+211273005,"Insect bite, nonvenomous, of forearm"
+211274004,"Insect bite, nonvenomous, of wrist"
+211358006,"Insect bite, nonvenomous, of hip"
+211359003,"Insect bite, nonvenomous, of thigh"
+211360008,"Insect bite, nonvenomous, of knee"
+211361007,"Insect bite, nonvenomous, lower leg"
+211362000,"Insect bite, nonvenomous, of ankle"
+211364004,"Insect bite, nonvenomous, of lower limb, infected"
+211365003,"Insect bite, nonvenomous, of knee, infected"
+211421007,"Insect bite, nonvenomous, of toe"
+217665000,Poisoning due to bite of venomous spider
+217666004,Poisoning due to bite of black widow spider
+217668003,Poisoning due to bite of tarantula spider
+217670007,Poisoning due to bite of Scorpiones
+217677005,Poisoning due to bite of centipede
+217678000,Poisoning due to bite of millipede
+217697000,Dog bite
+217698005,Rat bite
+217701002,Cat bite
+217702009,Moray eel bite
+217703004,"Bite of rodent, except rats"
+217704005,Shark bite
+217706007,Bite of nonvenomous arthropod
+23455003,Nonvenomous insect bite of hip without infection
+238456006,Snake bite
+238457002,Venomous snake bite
+240909002,Bite of reduviid bug
+241817000,Poisoning caused by funnel web spider venom
+241818005,Poisoning due to bite of tick
+242590008,Poisonous insect bite
+242592000,Poisoned bite of tick
+242599009,Stung by cone shell
+242600007,Poisoned bite of venomous octopus
+242601006,Poisoned bite of blue ring octopus
+242605002,Human bite
+242606001,Bite of mammal
+242607005,Bite of domestic pet
+242608000,Bite of rabbit
+242609008,Bite of hamster
+242610003,Bite of gerbil
+242611004,Bite of mouse
+242612006,Bite of ferret
+242613001,Bite of farm animal
+242614007,Bite of pig
+242615008,Bite of horse
+242616009,Bite of camel
+242617000,Bite of wild animal
+242618005,Bite of primate
+242619002,Monkey bite
+242620008,Bite of large carnivore
+242621007,Bite of lion
+242622000,Bite of tiger
+242623005,Bite of large herbivore
+242624004,Bite of hippopotamus
+242625003,Bite of rodent
+242626002,Bite of reptile
+242627006,"Bite of venomous snake, without envenomation"
+242628001,Bite of crocodile
+242629009,Bite of alligator
+242630004,Bite of turtle
+242631000,Bite of fish
+242632007,Piranha bite
+242634008,Bite of Diptera species
+242635009,Bite of mosquito
+242636005,Bite of gnat
+242637001,Bite of midge
+242638006,Bite of horse-fly
+242639003,Bite of sandfly
+242640001,Bite of tsetse fly
+242641002,Bite of Syphonaptera species
+242642009,Bite of human flea
+242643004,Bite of animal flea
+242644005,Bite of Anoplura species
+242645006,Bite of body louse
+242647003,Bite of pubic louse
+242648008,Bite of Hemiptera species
+242649000,Bite of bed bug
+242650000,Leech bite
+25726008,Nonvenomous insect bite of groin with infection
+262550002,Infected insect bite
+262551003,Flea bites
+262554006,Superficial mammalian bite wound
+262555007,Human bite - wound
+262556008,Superficial dog bite wound
+262569007,Deep mammalian bite wound
+262570008,Deep wound due to human bite
+262571007,Deep dog bite
+2683000,Nonvenomous insect bite of axilla without infection
+269196004,"Insect bite, nonvenomous, of scrotum and testis"
+269197008,"Insect bite, nonvenomous, of scrotum and/or testis, infected"
+269205004,"Insect bite, nonvenomous, of foot"
+269206003,"Insect bite, nonvenomous, of foot and toe, infected"
+269211001,Insect bite of eyelids and periocular area
+269711000,Nonvenomous snake bite
+27447009,Nonvenomous insect bite of groin without infection
+276433004,Insect bite - wound
+278487002,Insect bite of eyelid
+283321007,Insect bite of head and neck
+283322000,Insect bite of head
+283323005,Insect bite of forehead
+283324004,Insect bite of eye region
+283325003,Insect bite of ear region
+283326002,Insect bite of nose
+283327006,Insect bite of cheek
+283328001,Insect bite of mouth
+283329009,Insect bite of throat
+283330004,Insect bite of upper limb
+283331000,Insect bite of hand
+283332007,Insect bite of dorsum of hand
+283333002,Insect bite of palm of hand
+283334008,Insect bite of finger
+283335009,Insect bite of thumb
+283336005,Insect bite of trunk
+283337001,Insect bite of pelvic region
+283338006,Insect bite of genitalia
+283339003,Insect bite of lower limb
+283340001,Insect bite of great toe
+283341002,Insect bite of dorsum of foot
+283342009,Insect bite of sole of foot
+283343004,Insect bite of heel
+283344005,Mosquito bite
+283345006,Fly bite
+283346007,Infected insect bite of head and neck
+283347003,Infected insect bite of upper limb
+283348008,Infected insect bite of dorsum of hand
+283349000,Infected insect bite of palm of hand
+283350000,Infected insect bite of thumb
+283351001,Infected insect bite of pelvic region
+283352008,Infected insect bite of genitalia
+283353003,Infected insect bite of dorsum of foot
+283354009,Infected insect bite of sole of foot
+283683002,Mammal bite wound
+283684008,Human bite of head and neck
+283685009,Human bite of head
+283686005,Human bite of scalp
+283687001,Human bite of face
+283689003,Human bite of forehead
+283690007,Human bite of eye region
+283691006,Human bite of ear region
+283692004,Human bite of nose
+283693009,Human bite of cheek
+283694003,Human bite of mouth
+283695002,Human bite of neck
+283697005,Human bite of throat
+283698000,Human bite of upper limb
+283699008,Human bite of shoulder
+283700009,Human bite of axilla
+283701008,Human bite of upper arm
+283702001,Human bite of elbow
+283703006,Human bite of forearm
+283704000,Human bite of wrist
+283705004,Human bite of hand
+283706003,Human bite of dorsum of hand
+283707007,Human bite of palm of hand
+283708002,Human bite of finger
+283709005,Human bite of thumb
+283710000,Human bite of trunk
+283711001,Human bite of back
+283712008,Human bite of chest
+283713003,Human bite of breast
+283714009,Human bite of abdomen
+283715005,Human bite of pelvic region
+283716006,Human bite of perineum
+283717002,Human bite of genitalia
+283718007,Human bite of groin
+283719004,Human bite of lower limb
+283720005,Human bite of buttock
+283721009,Human bite of hip
+283722002,Human bite of thigh
+283723007,Human bite of knee
+283724001,Human bite of lower leg
+283725000,Human bite of shin
+283726004,Human bite of calf
+283727008,Human bite of ankle
+283728003,Human bite of foot
+283729006,Human bite of toe
+283730001,Human bite of great toe
+283731002,Human bite of dorsum of foot
+283732009,Human bite of sole of foot
+283733004,Human bite of heel
+283734005,Dog bite - wound
+283735006,Dog bite of head and neck
+283736007,Dog bite of head
+283737003,Dog bite of scalp
+283738008,Dog bite of face
+283739000,Dog bite of forehead
+283740003,Dog bite of eye region
+283741004,Dog bite of ear region
+283742006,Dog bite of nose
+283743001,Dog bite of cheek
+283744007,Dog bite of mouth
+283745008,Dog bite of neck
+283746009,Dog bite of throat
+283747000,Dog bite of upper limb
+283748005,Dog bite of shoulder
+283749002,Dog bite of axilla
+283750002,Dog bite of upper arm
+283751003,Dog bite of elbow
+283752005,Dog bite of forearm
+283753000,Dog bite of wrist
+283754006,Dog bite of hand
+283755007,Dog bite of dorsum of hand
+283756008,Dog bite of palm of hand
+283757004,Dog bite of finger
+283758009,Dog bite of thumb
+283759001,Dog bite of trunk
+283760006,Dog bite of back
+283761005,Dog bite of chest
+283762003,Dog bite of abdomen
+283763008,Dog bite of pelvic region
+283764002,Dog bite of perineum
+283765001,Dog bite of genitalia
+283766000,Dog bite of groin
+283767009,Dog bite of lower limb
+283768004,Dog bite of buttock
+283769007,Dog bite of hip
+283770008,Dog bite of thigh
+283771007,Dog bite of knee
+283772000,Dog bite of lower leg
+283773005,Dog bite of shin
+283774004,Dog bite of calf
+283775003,Dog bite of ankle
+283776002,Dog bite of foot
+283777006,Dog bite of toe
+283778001,Dog bite of great toe
+283779009,Dog bite of dorsum of foot
+283780007,Dog bite of sole of foot
+283781006,Dog bite of heel
+283782004,Cat bite - wound
+283783009,Hamster bite wound
+283784003,Horse bite wound
+283785002,Rabbit bite wound
+283786001,Rat bite - wound
+283787005,Monkey bite - wound
+283788000,Squirrel bite wound
+283789008,Animal bite wound of head and neck
+283790004,Animal bite wound of head
+283791000,Animal bite of scalp
+283792007,Animal bite of face
+283793002,Animal bite of forehead
+283794008,Animal bite of eye region
+283795009,Animal bite of ear region
+283796005,Animal bite of nose
+283798006,Animal bite of cheek
+283799003,Animal bite of mouth
+283800004,Animal bite wound of neck
+283801000,Animal bite of throat
+283802007,Animal bite wound of upper limb
+283803002,Animal bite of shoulder
+283804008,Animal bite of axilla
+283805009,Animal bite of upper arm
+283806005,Animal bite of elbow
+283807001,Animal bite of forearm
+283808006,Animal bite of wrist
+283809003,Animal bite of hand
+283810008,Animal bite of dorsum of hand
+283811007,Animal bite of palm of hand
+283812000,Animal bite of finger
+283813005,Animal bite of thumb
+283814004,Animal bite wound of trunk
+283815003,Animal bite of back
+283816002,Animal bite of chest
+283817006,Animal bite of abdomen
+283818001,Animal bite of pelvic region
+283819009,Animal bite of perineum
+283820003,Animal bite of genitalia
+283821004,Animal bite of groin
+283822006,Animal bite wound of lower limb
+283823001,Animal bite of buttock
+283824007,Animal bite of hip
+283825008,Animal bite of thigh
+283826009,Animal bite of knee
+283827000,Animal bite of lower leg
+283828005,Animal bite of shin
+283829002,Animal bite of calf
+283830007,Animal bite of ankle
+283831006,Animal bite of foot
+283832004,Animal bite of toe
+283833009,Animal bite of great toe
+283834003,Animal bite of dorsum of foot
+283835002,Animal bite of sole of foot
+283836001,Animal bite of heel
+283837005,Fish bite wound
+283838000,Reptile bite wound
+283840005,Snake bite - wound
+287109001,Insect bite to trunk - nonvenomous
+287112003,Insect bite to arm - nonvenomous
+287115001,Insect bite to hand - nonvenomous
+287118004,Insect bite to leg - nonvenomous
+287126007,Insect bite to cornea - nonvenomous
+29757004,Nonvenomous insect bite of foot without infection
+3032005,Nonvenomous insect bite of cheek without infection
+30818003,Nonvenomous insect bite of perineum with infection
+33155001,Nonvenomous insect bite of flank with infection
+35057008,Nonvenomous insect bite of penis with infection
+371057009,Venomous bite wound
+37887002,Nonvenomous insect bite of neck with infection
+38189003,Nonvenomous insect bite of ankle with infection
+399907009,Animal bite wound
+400023004,Seal bite wound
+40119006,Poisoning due to bite of Loxosceles reclusa
+402150002,Insect bite reaction
+403140007,Blackfly bite
+403145002,Thrip bite
+403148000,Bullous insect bite reaction
+403149008,Spider bite wound
+403153005,Centipede bite
+406560000,Animal bite by potentially rabid animal
+406561001,Animal bite to human by potentially rabid animal
+409985002,Arthropod bite wound
+409987005,Tache noire
+4124006,Nonvenomous insect bite of vagina with infection
+41958008,Nonvenomous insect bite of back with infection
+42032008,Nonvenomous insect bite of abdominal wall with infection
+420775008,Poisoning due to bite of Centruroides exilicauda
+42089007,Nonvenomous insect bite of anus with infection
+428471001,Nonvenomous insect bite of multiple sites with infection
+428509000,Nonvenomous insect bite of multiple sites
+428762009,Infected insect bite of hand
+429305003,Nonvenomous insect bite
+44352004,Nonvenomous insect bite of hand with infection
+443874006,Infection of tick bite
+446845005,Nonvenomous insect bite of finger
+446917003,Nonvenomous snake bite wound of lower extremity
+44921007,Nonvenomous insect bite of ear without infection
+449643001,Nonvenomous insect bite of lower leg with infection
+449720001,Nonvenomous insect bite of lower limb without infection
+449915007,Nonvenomous insect bite of lower leg without infection
+45915002,Nonvenomous insect bite of upper arm with infection
+47027001,Nonvenomous insect bite of scrotum with infection
+49976003,Nonvenomous insect bite of back without infection
+50124004,Nonvenomous insect bite of buttock with infection
+51882009,Nonvenomous insect bite of interscapular region with infection
+52705001,Nonvenomous insect bite of finger with infection
+53188002,Nonvenomous insect bite of gum with infection
+53706009,Nonvenomous insect bite of vulva with infection
+56892000,Nonvenomous insect bite of chest wall with infection
+59443003,Nonvenomous insect bite of thigh with infection
+60298004,Nonvenomous insect bite of forearm with infection
+60807005,Nonvenomous insect bite of lip with infection
+62591002,Nonvenomous insect bite of abdominal wall without infection
+67862004,Nonvenomous insect bite of elbow with infection
+67974004,Nonvenomous insect bite of nose with infection
+68765006,Nonvenomous insect bite of ankle without infection
+69743002,Nonvenomous insect bite of hand without infection
+698297006,Bite of nonvenomous spider
+70294003,Nonvenomous insect bite of scalp with infection
+716103008,Open wound of hand due to cat bite
+716104002,Open wound of hand due to dog bite
+71696000,Nonvenomous insect bite of face without infection
+71804007,Nonvenomous insect bite of scapular region without infection
+718509009,Open wound of forearm due to cat bite
+718510004,Open wound of forearm due to dog bite
+721341008,Open bite wound of neck
+72498006,Nonvenomous insect bite of breast without infection
+73405008,Nonvenomous insect bite of trunk without infection
+736256005,Persistent insect bite reaction
+74225001,Tick paralysis
+76584003,Nonvenomous insect bite of hip with infection
+770957005,Bite of seal
+770959008,Bite of squirrel
+770981003,Bite of arthropod
+771161008,Bite of venomous animal
+771191003,Bite of insect
+771192005,Bite of venomous arthropod
+771193000,Bite of thrip
+771257008,Bite of spider
+771258003,Bite of tick
+771268008,Bite of nonvenomous insect
+771312002,Bite of venomous spider
+77874001,Nonvenomous insect bite of shoulder with infection
+782161000,Bite
+782162007,Bite of nonhuman animal
+788966003,Insect bite reaction of skin
+789229008,Infected wound of eyelid due to nonvenomous insect bite
+789230003,Infected wound of bilateral eyelids due to nonvenomous insect bite
+801006,Nonvenomous insect bite of foot with infection
+80961000,Nonvenomous insect bite of chest wall without infection
+81769002,Nonvenomous insect bite of testis with infection
+82244004,Nonvenomous insect bite of elbow without infection
+8297008,Nonvenomous insect bite of toe without infection
+83587009,Nonvenomous insect bite of cheek with infection
+838335003,Arthropod bite caused by Atrax
+84070009,Nonvenomous insect bite of axilla with infection
+874914008,Nonvenomous insect bite of gum
+874916005,Nonvenomous insect bite of nose
+874930000,Nonvenomous insect bite of scrotum
+89021008,Nonvenomous insect bite without infection
+8975004,Nonvenomous insect bite of thigh without infection
+903621000000103,Poisoning due to redback spider venom
+91060006,Nonvenomous insect bite of wrist with infection
+9377008,Nonvenomous insect bite of forearm without infection
+95898004,Tick bite

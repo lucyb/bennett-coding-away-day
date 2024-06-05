@@ -1,3 +1,22 @@
 {
-  "files": {}
+  "files": {
+    "user-jon_massey-cake-dmd.csv": {
+      "id": "user/jon_massey/cake-dmd/34c0769b",
+      "url": "https://www.opencodelists.org/codelist/user/jon_massey/cake-dmd/34c0769b/",
+      "downloaded_at": "2024-06-05 10:10:18.585503Z",
+      "sha": "4af313a833fd18e96a4f7370c6ddd64e6550ce4d"
+    },
+    "user-jon_massey-bites.csv": {
+      "id": "user/jon_massey/bites/1bb10366",
+      "url": "https://www.opencodelists.org/codelist/user/jon_massey/bites/1bb10366/",
+      "downloaded_at": "2024-06-05 10:24:53.681379Z",
+      "sha": "ea3f33b2f5754fcd102b13a1ffbdf5957485dbac"
+    },
+    "user-jon_massey-parachuting.csv": {
+      "id": "user/jon_massey/parachuting/69921cfb",
+      "url": "https://www.opencodelists.org/codelist/user/jon_massey/parachuting/69921cfb/",
+      "downloaded_at": "2024-06-05 10:28:46.878605Z",
+      "sha": "0a7f9c6fcf30f8db3a8723e0a392433b54718bcf"
+    }
+  }
 }
