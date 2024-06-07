@@ -3,7 +3,7 @@ import itertools
 import random
 from datetime import datetime, timedelta
 
-N_PATIENTS = 3000
+N_PATIENTS = 30000
 
 
 # Generate N patients with uniform sex distribution, age, and 10% dead
@@ -13,12 +13,12 @@ def generate_patient(patient_id):
     patient = {"patient_id": patient_id}
     patient["sex"] = random.choice(["male", "female"])
 
-    year_of_birth = random.randint(1920, 2020)
+    year_of_birth = random.randint(1920, 2010)
     month_of_birth = str(random.randint(1, 12)).zfill(2)
     day_of_birth = str(random.randint(1, 28)).zfill(2)
     patient["date_of_birth"] = f"{year_of_birth}-{month_of_birth}-{day_of_birth}"
 
-    year_of_death = random.randint(year_of_birth + 1, 2023)
+    year_of_death = random.randint(year_of_birth + 10, 2023)
     month_of_death = str(random.randint(1, 12)).zfill(2)
     day_of_death = str(random.randint(1, 28)).zfill(2)
     patient["date_of_death"] = random.choice(
