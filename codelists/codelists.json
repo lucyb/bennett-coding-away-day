@@ -17,6 +17,12 @@
       "url": "https://www.opencodelists.org/codelist/user/jon_massey/parachuting/69921cfb/",
       "downloaded_at": "2024-06-05 10:28:46.878605Z",
       "sha": "0a7f9c6fcf30f8db3a8723e0a392433b54718bcf"
+    },
+    "user-jon_massey-extreme-sports.csv": {
+      "id": "user/jon_massey/extreme-sports/21168352",
+      "url": "https://www.opencodelists.org/codelist/user/jon_massey/extreme-sports/21168352/",
+      "downloaded_at": "2024-06-07 13:12:30.538375Z",
+      "sha": "7d9aff37e7f3a818e7880ef734e5e198261e76a1"
     }
   }
 }

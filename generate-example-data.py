@@ -1,7 +1,7 @@
 import csv
 import itertools
 import random
-
+from datetime import datetime, timedelta
 
 N_PATIENTS = 3000
 
@@ -90,6 +90,15 @@ def clinical_event_date(patient):
     return f"{year}-{month}-{day}"
 
 
+def clinical_event(patient, snomedct_code):
+    clinical_event = {"patient_id": patient["patient_id"]}
+    clinical_event["date"] = clinical_event_date(patient)
+    clinical_event["snomedct_code"] = snomedct_code
+    clinical_event["ctv3_code"] = None
+    clinical_event["numeric_value"] = None
+    return clinical_event
+
+
 # add clinical events
 
 clinical_events = []
@@ -156,12 +165,7 @@ while True:
     practice_registration["practice_nuts1_region_name"] = "South West"
 
     for i in range(0, 100):
-        clinical_event = {"patient_id": patient["patient_id"]}
-        clinical_event["date"] = clinical_event_date(patient)
-        clinical_event["snomedct_code"] = ferret
-        clinical_event["ctv3_code"] = None
-        clinical_event["numeric_value"] = None
-        clinical_events.append(clinical_event)
+        clinical_events.append(clinical_event(patient, ferret))
     break
 
 
@@ -172,12 +176,53 @@ with open("codelists/user-jon_massey-bites.csv", "r") as f:
     bites = list(reader)
     bites = [b["code"] for b in bites]
 for patient in other_bitten:
-    clinical_event = {"patient_id": patient["patient_id"]}
-    clinical_event["date"] = clinical_event_date(patient)
-    clinical_event["snomedct_code"] = random.choice(bites)
-    clinical_event["ctv3_code"] = None
-    clinical_event["numeric_value"] = None
-    clinical_events.append(clinical_event)
+    clinical_events.append(clinical_event(patient, random.choice(bites)))
+
+
+# cake and parachuting
+medications = []
+
+with open("codelists/user-jon_massey-cake-dmd.csv", "r") as f:
+    reader = csv.DictReader(f)
+    cakes = [c["code"] for c in list(reader)]
+with open("codelists/user-jon_massey-extreme-sports.csv") as f:
+    reader = csv.DictReader(f)
+    sports = [c["code"] for c in list(reader)]
+with open("codelists/user-jon_massey-parachuting.csv") as f:
+    reader = csv.DictReader(f)
+    parachuting = [c["code"] for c in list(reader)]
+
+cake_eaters = random.choices(patients, k=N_PATIENTS // 3)
+for patient in cake_eaters:
+    medication = {"patient_id": patient["patient_id"]}
+    medication["date"] = clinical_event_date(patient)
+    medication["dmd_code"] = random.choice(cakes)
+    medications.append(medication)
+
+parachutists = random.choices(cake_eaters, k=len(cake_eaters) // 2)
+for patient in parachutists:
+    date = [m for m in medications if m["patient_id"] == patient["patient_id"]][0][
+        "date"
+    ]
+    date = datetime.strptime(date, "%Y-%m-%d")
+    date = date + timedelta(days=random.randint(1, 7))
+    date = date.strftime("%Y-%m-%d")
+    i = patient["patient_id"] - 1
+    if random.randint(0, 1) == 0:
+        patient["date_of_death"] = date
+    patients[i] = patient
+    ce = clinical_event(patient, random.choice(parachuting))
+    ce["date"] = date
+    clinical_events.append(ce)
+
+other_sports = list(set(sports) - set(parachuting))
+sporty_folk = random.choices(patients, k=N_PATIENTS // 3)
+parachutist_ids = [p["patient_id"] for p in parachutists]
+for patient in sporty_folk:
+    if patient["patient_id"] in parachutist_ids:
+        continue
+    clinical_events.append(clinical_event(patient, random.choice(other_sports)))
+
 
 with open("example-data/patients.csv", "w") as f:
     writer = csv.DictWriter(
@@ -198,6 +243,7 @@ with open("example-data/clinical_events.csv", "w") as f:
         ],
     )
     writer.writeheader()
+    random.shuffle(clinical_events)
     writer.writerows(clinical_events)
 
 with open("example-data/practice_registrations.csv", "w") as f:
@@ -214,3 +260,9 @@ with open("example-data/practice_registrations.csv", "w") as f:
     )
     writer.writeheader()
     writer.writerows(practice_registrations)
+
+
+with open("example-data/medications.csv", "w") as f:
+    writer = csv.DictWriter(f, fieldnames=["patient_id", "date", "dmd_code"])
+    writer.writeheader()
+    writer.writerows(medications)
