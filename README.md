@@ -11,7 +11,7 @@ two Very Serious research questions:
 
 
 ## Codelists
-Codelists you may find useful for these research questions are to be found in `/codelists`. Running `opensafely codelists update` will overwrite them. You were warned.
+Codelists you may find useful for these research questions are to be found in `/local-codelists`.
 
 ## Example data
 There is a finely crafted example dataset for this coding exercise which contains more interesting
