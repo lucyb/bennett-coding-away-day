@@ -2,7 +2,7 @@
 
 In order to maximise the time availble for the coding task please do the following in advance of the session
 1. Fork this repo
-1. Start a codespace on your fork
+1. Start a codespace on your fork (you will be prompted to authorise read access to `opensafely/server-instructions`, please do so)
 1. Pull the required opensafely images:
 ```sh
 opensafely pull ehrql:v1
